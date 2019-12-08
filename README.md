@@ -1,0 +1,2 @@
+# computershopv2
+This C++ Program with the Help of the concept of data file handling can be used in the computer shops to maintain the easy and continuous flow of the billing and the Updating of the products. This program efficiently keeps the data stored in the file to alter the loss of data of the computer shop anytime. 6 Since it is a program of C++ hence it is a small and efficient to handle at a faster rate. With the help of just a bit we can store many data in it without the fear of losing it.
